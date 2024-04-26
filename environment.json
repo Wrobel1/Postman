@@ -1,0 +1,39 @@
+{
+	"id": "42fab191-5dc3-44db-8e2c-79d3d6f3a217",
+	"name": "Test",
+	"values": [
+		{
+			"key": "host",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "admin",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "password123",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-04-26T10:41:14.505Z",
+	"_postman_exported_using": "Postman/10.24.22"
+}
